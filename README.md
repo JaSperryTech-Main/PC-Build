@@ -2,7 +2,7 @@
 My Dream PC Build
 
 
-[PCPartPicker Part List](https://pcpartpicker.com/list/zxMzYd)
+[PCPart - Picker Part List](https://pcpartpicker.com/list/zxMzYd)
 
 Type|Item|Price
 :----|:----|:----
